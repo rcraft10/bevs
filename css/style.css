@@ -413,6 +413,7 @@ span.bb-bottom-right {
     background: url(../img/beer_bottles.png) no-repeat;
     background-size: cover;
     background-attachment: fixed;
+	background-color:#00967F
 }
 
 #screenshots .item{
@@ -499,8 +500,8 @@ span.bb-bottom-right {
     border-color: #3B5998;
 }
 .facebook a i:hover {
-    color: #fff;
     background-color: #3B5998;
+    color: #fff;
 }
 .linkedin a i {
     color: #007bb6;
